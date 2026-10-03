@@ -278,10 +278,7 @@ GROUP BY shift;
 
 This project covers database setup, data cleaning, EDA and business-driven SQL analysis using aggregations, CASE logic, subqueries, CTEs and window functions (`RANK`, `LAG`). The findings highlight sales patterns, customer behavior and category performance.
 
-## Acknowledgment
 
-Dataset and base project idea from Zero Analyst's public Retail Sales Analysis project.
 
 ## Author
-
-**Your Name** | [LinkedIn](#) | [GitHub](#)
+Chitra Singh
